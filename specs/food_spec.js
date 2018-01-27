@@ -2,7 +2,7 @@ const assert = require('assert');
 const Food = require('../food.js');
 
 
-describe('food', function(){
+describe('Food', function(){
   var food;
 
   beforeEach(function(){

@@ -3,7 +3,7 @@ const Hero = require('../hero.js');
 const Task = require('../task.js');
 const Food = require('../food.js');
 
-describe('hero', function(){
+describe('Hero', function(){
   var hero;
   var task1;
   var task2;

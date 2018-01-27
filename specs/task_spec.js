@@ -1,7 +1,7 @@
 const assert = require('assert');
 const Task = require('../task.js');
 
-describe('task', function(){
+describe('Task', function(){
   var task;
 
 
